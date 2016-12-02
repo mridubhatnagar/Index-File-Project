@@ -4,8 +4,13 @@
  
  
 1)Stored all the text file paths in a text file (one path per line).
+
 2)Appended all the file paths in an empty list
+
 3)Then used dictionary within the dictionary kept the file names retrieved from the list as key and dictionary of words as value.
+
 4)In dictionary of words made starting alphabet as key and all the words starting with key as value inside a list.
+
 5)Based on the word user enters for search all the text files having the word are retrieved.
+
 
