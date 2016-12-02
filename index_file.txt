@@ -1,0 +1,10 @@
+D:\college\SEMESTER 7\word frequency python\excluded.txt
+D:\college\SEMESTER 7\word frequency python\keys.txt
+D:\college\SEMESTER 7\word frequency python\remaining words.txt
+D:\college\SEMESTER 7\word frequency python\traindata.txt
+D:\college\SEMESTER 7\word frequency python\trainedlistdata.txt
+D:\college\SEMESTER 7\word frequency python\wordfrequency.txt
+D:\college\SEMESTER 7\Project\data-set.txt
+D:\college\SEMESTER 7\Project\Instructions.txt
+D:\college\SEMESTER 7\Index File python\filedata.txt
+D:\college\SEMESTER 7\Index File python\filedata1.txt
